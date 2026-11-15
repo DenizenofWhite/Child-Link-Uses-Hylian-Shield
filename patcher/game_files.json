@@ -1,0 +1,10 @@
+{
+ "version": "1.1.1 (build e0f3ccfa)",
+ "sha256": {
+  "Pack/ZsDic.pack.zs": "1f35801d24503905093bb2f6634e5779c1413ca7e6756421160e44d996e60904",
+  "Pack/Actor/Weapon_Shield_Hylian.pack.zs": "ae5eb4796c432e681392ecb4aa117718c8d3bd2496038379ff5d0cbb1c4138ae",
+  "Pack/Actor/Weapon_Shield_DarkLinkShield.pack.zs": "fcc7b4def69e81dc38acc10be6234ceb82a16d5871c450a95b511119f5a61068",
+  "Pack/Actor/Weapon_Shield_Deku.pack.zs": "63328da38c66ae574b41b6a49fc0e1e5e75b591baa891165826526284668bd60",
+  "RSDB/PouchActorInfo.Product.111.rstbl.byml.zs": "31d3005fea2816bf6fd4dd0ad69f18c0b40508a38fdb83269a722ec1bcab6965"
+ }
+}
